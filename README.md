@@ -2,7 +2,7 @@
 
 A Python-based analysis tool for evaluating and visualizing [Promptfoo](https://promptfoo.dev) evaluation results. This tool helps you analyze LLM prompt testing results, identify patterns, and generate comprehensive reports.
 
-![Promptfoo Analysis Dashboard](images/dashboard_screenshot.png)
+![Promptfoo Analysis Dashboard](Promptfoo_results_images/dashboard_screenshot.png)
 
 ## Prerequisites
 
